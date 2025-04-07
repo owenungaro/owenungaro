@@ -1,12 +1,6 @@
 
 # Hey, I'm Owen!
 
-> *"Code is poetry, data is art, and keyboards are the brush."* 🎨📊
-
-![Typing GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtvenpnbzJpbTdmcGRhaGZzeTE3bjg0aXA3M24zbXQxNWc2c2huMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFes9SyGTPhPwxLKNa/giphy.gif)
-
-
-
 I am a current student at Stevens Institute of Technology with a strong interest in web scraping, automation, and data visualization. 
 
 I enjoy working with data, making it interactive and insightful, and finding ways to automate tedious tasks. 
